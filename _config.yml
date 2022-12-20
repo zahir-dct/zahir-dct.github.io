@@ -1,0 +1,6 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+plugins:
+- jekyll-remote-theme
+
+title: [ Mohmod Irfan Shah ]
+description: [Personal Blog]
